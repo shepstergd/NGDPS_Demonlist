@@ -90,6 +90,9 @@ export default {
                     </div>
                     <h3>Submission Requirements</h3>
                     <p>
+                        You can submit levels by joining the discord server and making a thread in the record submission channel.
+                    </p>
+                    <p>
                         Completed the level without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
