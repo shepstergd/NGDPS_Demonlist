@@ -217,7 +217,7 @@ p,
 }
 p::before,
 .type-body::before {
-    content: "test";
+    content: "";
     margin-bottom: -0.4916666667em;
     display: table;
 }
