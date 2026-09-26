@@ -99,6 +99,9 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
+                      <p>
+                        You can submit levels by joining the discord server and making a thread on the record submission channel
+                    </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
